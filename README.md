@@ -1,36 +1,68 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🐱 Cool Cat - Le Chat ASCII Animé
 
-## Getting Started
+Salut ! 👋 Bienvenue sur **Cool Cat**, le site web le plus mignon du monde (ou presque) !
 
-First, run the development server:
+## Qu'est-ce que c'est ?
+
+Un chat ASCII art qui devient **cool** quand tu passes ta souris dessus. Oui, c'est tout. Et c'est génial ! 😸
+
+- **Normal** : `|\---/|` avec des yeux `o_o`
+- **Cool** : Le chat qui fume sa clope tranquillement 🚬
+
+## 🚀 Voir le chat en action
+
+Va voir le chat live : [https://cool-p5bvdg8no-axldarealests-projects.vercel.app](https://cool-p5bvdg8no-axldarealests-projects.vercel.app)
+
+Passe ta souris dessus et regarde-le devenir cool ! 🚬🐱
+
+## 🛠️ Tech Stack
+
+- **Next.js 15** - Le framework React moderne
+- **TypeScript** - Pour le code propre
+- **Tailwind CSS** - Pour le style
+- **Vercel** - Pour le déploiement
+- **Git** - Pour sauvegarder nos bêtises
+
+## 🏃‍♂️ Lancer en local
 
 ```bash
+# Clone le repo
+git clone https://github.com/axldarealest/cool-cat.git
+cd cool-cat
+
+# Installe les dépendances
+npm install
+
+# Lance le serveur de dev
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Puis va sur [http://localhost:3000](http://localhost:3000) et amuse-toi avec le chat !
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🎯 Fonctionnalités
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- ✅ Chat ASCII art
+- ✅ Animation au survol (devient cool)
+- ✅ Responsive design
+- ✅ Déployé sur Vercel
+- ✅ Code propre et maintenable
 
-## Learn More
+## 🤝 Contribuer
 
-To learn more about Next.js, take a look at the following resources:
+Tu veux ajouter des fonctionnalités ? Des animations ? D'autres chats ?
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Fork le projet
+2. Crée ta branche (`git checkout -b feature/chat-qui-danse`)
+3. Commit tes changements (`git commit -m 'feat: chat qui danse'`)
+4. Push vers la branche (`git push origin feature/chat-qui-danse`)
+5. Ouvre une Pull Request
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📝 License
 
-## Deploy on Vercel
+MIT - Fais ce que tu veux avec ce code !
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**PS** : Le chat fume, mais ne l'imite pas ! 🚬😅
+
+**PPS** : Merci à tous les chats du monde qui nous inspirent quotidiennement. 🐱✨
